@@ -2,7 +2,7 @@
 title: 如何删除commits
 date: 2021-8-12 8:56:00
 categories:
-- 日志
+- IT
 tags:
 ---
 

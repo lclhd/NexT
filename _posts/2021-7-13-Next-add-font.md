@@ -2,7 +2,7 @@
 title: NexT字体折腾小记
 date: 2021-7-13 7:00:30
 categories:
-- 日志
+- IT
 tags:
 ---
 
