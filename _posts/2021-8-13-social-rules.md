@@ -2,7 +2,7 @@
 title: 社交的规则
 date: 2021-8-13 13:03:00
 categories:
-- 日志
+- 网摘
 tags: 
 ---
 

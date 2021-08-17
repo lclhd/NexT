@@ -2,7 +2,7 @@
 title: 人性
 date: 2021-7-12 1:41:30
 categories:
-- 日志
+- 网摘
 tags:
 ---
 
